@@ -1,0 +1,59 @@
+CHOICES
+(You are allowed to choose a feature for some of the requirements. Indicate on the line
+which one you chose using the letter provided in the spec. Separate the letters with a comma
+In some cases you will also need to tell us what you did)
+
+---
+
+9a. I used a text gradient for the introduction section.
+9b. I used rem for font sizing
+
+12.I used CSS gradients in the intro and box/text-shadow for the classes taken section on the home page
+
+18.Added a star svg next to the CS144 class card to highlight its importance :D
+19.I attached 3 links to my Github, Linkedin, and Devpost right under my headshot in the introduction section of the home page.
+
+JAVASCRIPT
+(Please tells us what the JavaScript does e.g. "click on the green button and it does the following...")
+
+---
+
+Clicking "submit" below the quiz form on the bottom checks the answers and renders a score onto the screen.
+
+NOTES TO STAFF
+(If there is anything you need to tell us, please use the section below)
+
+---
+
+The website is deployed using github pages at the following link:
+
+https://kevz1209.github.io/personal-website/
+
+ONLY modify this section if you implemented the requirements across 2 or more files.
+Otherwise, submit this file as is. PLEASE do not delete anything from this file.
+
+REQUIREMENT LOCATION
+(After the period, hit TAB and then enter the HTML page name where the requirement
+was implemented)
+
+---
+
+2.  index.html, experience.html, projects.html
+3.  index.html, experience.html, projects.html
+4.  index.html, experience.html, projects.html
+5.  index.html
+6.  index.html
+7.  experience.html
+8.  index.html, experience.html, projects.html
+9.  index.html
+10. index.html
+11. experience.html, projects.html
+12. index.html
+13. index.html
+14. index.html
+15. index.html
+16. experience.html
+17. index.html
+18. index.html
+19. index.html
+20. index.html

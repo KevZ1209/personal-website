@@ -380,3 +380,7 @@ input[type="email"] {
   padding: 0.3rem;
   border-radius: 0.3rem;
 }
+
+svg {
+  height: 15px;
+}
